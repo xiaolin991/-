@@ -21,3 +21,5 @@
 
 # 下载
 下载DataExtract.zip即可
+# 效果图
+![](imgs/微信图片.png)
